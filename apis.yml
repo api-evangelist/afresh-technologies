@@ -1,9 +1,26 @@
 aid: afresh-technologies
 name: Afresh Technologies
-description: Afresh Technologies is a company surfaced as a portfolio company of insight-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Afresh Technologies builds an AI platform for grocery retail that helps supermarkets
+  and distributors manage fresh food, reducing shrink, improving in-stock rates, and cutting food
+  waste across store ordering, inventory management, production planning, recipe management, and
+  distribution-center buying. Its machine-learning decision engine forecasts demand for perishable,
+  random-weight, and bulk items where operational data is inherently messy, and is also offered as a
+  backend Replenishment API that plugs Afresh's forecasting and ordering logic into a retailer's
+  existing front-end systems without changing in-store associate workflows. The company is based in
+  San Francisco and is backed by Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/afresh-technologies/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/DZdOkdxwixPMtp4U0Cr1qyRBaV8.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -15,6 +32,14 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Grocery
+- Retail
+- Artificial Intelligence
+- Supply Chain
+- Inventory Management
+- Demand Forecasting
+- Food Waste
+- Fresh Food
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,18 @@ maintainers:
 common:
 - type: Website
   url: https://www.afresh.com/
+- type: DomainSecurity
+  url: security/afresh-technologies-domain-security.yml
+- type: GitHubOrganization
+  url: https://github.com/afresh-technologies
+- type: Blog
+  url: https://www.afresh.com/blogs-all
+- type: PrivacyPolicy
+  url: https://www.afresh.com/privacy-policy
+- type: SignUp
+  url: https://www.afresh.com/request-demo
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
