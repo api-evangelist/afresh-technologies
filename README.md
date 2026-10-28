@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Afresh Technologies is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Afresh Technologies builds an AI platform for grocery retail that helps supermarkets and distributors manage fresh food, reducing shrink, improving in-stock rates, and cutting food waste across store ordering, inventory management, production planning, recipe management, and distribution-center buying. Its machine-learning decision engine forecasts demand for perishable, random-weight, and bulk items where operational data is inherently messy, and is also offered as a backend Replenishment API that plugs Afresh's forecasting and ordering logic into a retailer's existing front-end systems without changing in-store associate workflows. The company is based in San Francisco and is backed by Insight Partners.
 
-Backed by: insight-partners — https://www.afresh.com/
+**Areas:** Company · Grocery · Retail · Artificial Intelligence · Supply Chain · Inventory · Demand Forecasting · Food Waste · Fresh Food
+
+## Afresh Technologies on APIs.io
+
+Everything profiled for Afresh Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/afresh-technologies/](https://apis.io/providers/afresh-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Afresh Technologies Domain Security](https://apis.io/security/afresh-technologies/afresh-technologies-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.afresh.com/)
+- [Sign up](https://www.afresh.com/request-demo)
+- [Blog](https://www.afresh.com/blogs-all)
+- [Privacy policy](https://www.afresh.com/privacy-policy)
+- [GitHub](https://github.com/afresh-technologies)
+
+## API Evangelist rating
+
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 23.7 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/afresh-technologies/](https://apis.io/providers/afresh-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Afresh Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/afresh-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
